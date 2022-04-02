@@ -6,4 +6,6 @@ public class TC003 {
     // updated the file
 
     // third line
+
+    // something else
 }
